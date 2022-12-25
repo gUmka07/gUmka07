@@ -19,8 +19,40 @@
   Hello, World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 </h1> 
+<div align="center">
+  <img src=https://img.freepik.com/premium-vector/programmer-with-code-cat-on-book-and-coffee-vector-clip-art-illustration_138676-92.jpg?w=996 width="300"/>
+  </div> 
+  
+  ---
+ 
+  <div align="left">
+  :man_technologist: About Me :
+    </div>
+  <div align="left">
+    🔭 Student at GeekBrains Academy.
+   </div>
+  <div align="left">
+    🌱 Beginner level languages: C#, Python, Php.
+    </div>
+  <div align="left">
+    😄 In my spare time I play football and computer games.
+    </div>
+  
+  ---
+  
+<div align="left">
+  
+### :hammer_and_wrench: Languages and Tools :
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+</div>
 
 <!--
+
 **gUmka07/gUmka07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
