@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200"/>
-</div> 
+</div>  <p>
+
 <div align="center" id="badges">
   <a href="https://vk.com/legochev7">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="VK Badge"/>
@@ -20,9 +21,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
    </div>
   
-  ---
-  
-  <div align="left">
+   <div align="left">
   :man_technologist: About Me :
     </div>
   <div align="left">
