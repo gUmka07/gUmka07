@@ -22,7 +22,7 @@
    </div>
   
    <div align="left">
-  :man_technologist: About Me :
+  :man_technologist: <b>About Me :</b>
     </div>
   <div align="left">
     🔭 Student at GeekBrains Academy.
