@@ -18,10 +18,6 @@
   <h1>
   Hello, World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-</h1> 
-<div align="center">
-  <img src=https://img.freepik.com/premium-vector/programmer-with-code-cat-on-book-and-coffee-vector-clip-art-illustration_138676-92.jpg?w=996 width="300"/>
-  </div> 
   
   ---
  
