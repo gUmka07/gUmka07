@@ -7,7 +7,7 @@
   </a>
    </a>
   <a href="https://www.instagram.com/legochev7">
-    <img src="https://img.shields.io/badge/Instargam-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://t.me/legochev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
